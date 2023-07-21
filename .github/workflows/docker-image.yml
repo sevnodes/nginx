@@ -28,4 +28,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            ghcr.io/SevNodes/nginx
+            ghcr.io/sevnodes/nginx
