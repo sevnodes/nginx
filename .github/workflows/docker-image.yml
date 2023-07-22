@@ -5,7 +5,7 @@ on:
 
 jobs:
   push:
-    name: "nginx-ptero:8.1"
+    name: "sevnodes/nginx"
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
